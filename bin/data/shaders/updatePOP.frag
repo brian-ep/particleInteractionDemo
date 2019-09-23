@@ -81,7 +81,7 @@ void main()
     //  accelerate
     vel += 0.1 * force;
 
-    vel.y = -400.0 * variance;
+    vel.y = -200.0 * variance;
 
     //  move
     pos += elapsed * vel;
