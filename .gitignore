@@ -1,0 +1,15 @@
+# Compiled objects #
+bin/*.dll
+bin/*.exe
+bin/*.exp
+bin/*.ilk
+bin/*.lib
+bin/*.pdb
+obj/
+
+# Project files #
+.vs/
+
+# Settings #
+/bin/data/colorSettings.xml
+bin/data/particleSettings.xml
